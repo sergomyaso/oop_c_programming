@@ -1,7 +1,7 @@
-<h1 align="center"> Java programming </h1> <br>
+<h1 align="center"> C++ programming </h1> <br>
 
 <p align="center">
-NSU laboratory work on Object Oriented programming in java. 
+NSU laboratory work on Object Oriented programming in C++. 
 </p>
 
 ## Table of Contents
@@ -35,4 +35,7 @@ Unit testing was carried out using the Google test framework.
 
 The game pacman is written using the QT framework.
 ### Screenshots of game
+yellow guy is a pacman :) 
+![pacman](https://user-images.githubusercontent.com/64182789/128849874-02dcb6ee-a988-4c06-98f1-ff55de196199.png)
+
 
